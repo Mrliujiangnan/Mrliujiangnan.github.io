@@ -1,11 +1,11 @@
 # Site settings
 title: WY Blog
-SEOTitle: Mr.nan的博客 | WY Blog
+SEOTitle: 旧故人的博客 | Mr.nan Blog
 header-img: img/post-bg-desk.jpg
-email: 1608808586@qq.com
+email: 614304982@qq.com
 description: "Every failure is leading towards success."
-keyword: "WY, WY Blog, 无意的博客, wuyi, 孙兵, PHP, linux, MySQL, Python, C, Java"
-url: "http://jimadela.github.io"          # your host, for absolute URL
+keyword: "Mr.nan, Mr.nan Blog, 旧故人的博客, Mr.nan, 刘江南, h5, c3, vue, angular, jq, es6,element-ui"
+url: "http://Mrliujiangnan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jimadela/qiubaiying.github.io.git" # you code repository
 
